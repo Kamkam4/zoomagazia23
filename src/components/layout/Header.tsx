@@ -17,7 +17,7 @@ const NavLink = ({ href, children, onClick }: { href: string; children: React.Re
     <Link 
       href={href} 
       onClick={onClick}
-      className={`transition-colors hover:text-blue-600 ${isActive ? 'font-semibold text-blue-600' : 'text-gray-600'}`}
+      className={`transition-colors hover:text-[#f2c90b] ${isActive ? 'font-semibold text-[#f2c90b]' : 'text-gray-600'}`}
     >
       {children}
     </Link>
