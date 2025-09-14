@@ -48,7 +48,7 @@ export const allProducts: Product[] = [
     name: 'მშრალი საკვები ზრდასრული კატებისთვის',
     category: 'საკვები',
     price: 85.00,
-    imageUrl: '/products/cat-food-1.jpg',
+    imageUrl: '/products/mshrali.png',
     description: 'დაბალანსებული მშრალი საკვები ზრდასრული კატებისთვის. შეიცავს ყველა საჭირო ნივთიერებას თქვენი კატის ჯანმრთელობისთვის.',
   },
   {
@@ -56,7 +56,7 @@ export const allProducts: Product[] = [
     name: 'გემრიელი ძვლები ძაღლებისთვის',
     category: 'საკვები',
     price: 25.00,
-    imageUrl: '/products/dog-treat-1.jpg',
+    imageUrl: '/products/gmrdzvali.png',
     description: 'ნატურალური, გემრიელი ძვლები, რომლებიც წმენდს კბილებს და აკმაყოფილებს ღრღნის ინსტინქტს.',
   },
   {
@@ -64,7 +64,7 @@ export const allProducts: Product[] = [
     name: 'სასეირნო ყელსაბამი და თოკი',
     category: 'აქსესუარები',
     price: 55.00,
-    imageUrl: '/products/dog-leash-1.jpg',
+    imageUrl: '/products/seirnoba.png',
     description: 'მყარი და საიმედო კომპლექტი თქვენი ძაღლის უსაფრთხო და კომფორტული სეირნობისთვის.',
   },
   {
@@ -72,7 +72,7 @@ export const allProducts: Product[] = [
     name: 'საფხაჭნი ბოძი კატებისთვის',
     category: 'აქსესუარები',
     price: 95.00,
-    imageUrl: '/products/cat-scratcher-1.jpg',
+    imageUrl: '/products/fxanva.jpg',
     description: 'დაიცავით თქვენი ავეჯი დაზიანებისგან. ეს საფხაჭნი ბოძი დააკმაყოფილებს თქვენი კატის ბუნებრივ ინსტინქტებს.',
   },
 ];
