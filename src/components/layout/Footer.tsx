@@ -41,7 +41,7 @@ const Footer = () => {
           <div className="mt-4 flex flex-col space-y-3 text-sm text-gray-400">
             <p>თბილისი, საქართველო</p>
             <p>info@petshop.ge</p>
-            <p>+995 123 456 789</p>
+            <p>+995 595 12 42 38</p>
           </div>
         </div>
         

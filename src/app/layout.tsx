@@ -31,8 +31,8 @@ const herofont = localFont({
 
 // Site metadata
 export const metadata: Metadata = {
-  title: "PetShop Portfolio",
-  description: "A modern pet shop website built for portfolio with Next.js",
+  title: "ზოო მაღაზია",
+  description: "საუკეთესო პროდუქტები და აქსესუარები თქვენი ოთხფეხა მეგობრებისთვის",
 };
 
 // Main Layout Component
